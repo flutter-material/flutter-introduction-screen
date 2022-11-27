@@ -1,7 +1,7 @@
 # Flutter introduction_screen
 介紹頁面製作 introduction_screen。
 
-<img src="./screenshot/demo.gif" width=650>
+<img src="./screenshot/demo.gif" width=550>
 
 在此專案中透過 sharedPreferences 來儲存指定變數來控管 APP 的設定檔資料存取。當使用者點選 Skip/Done 按鈕時自動的將指定變數(isviewed)修改。下次開啟 APP 時會自動的要求 isviewed 變數，來判定是否要觸發介紹頁面。
 
